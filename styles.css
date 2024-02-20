@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(241, 219, 18);
+}
+h1 {
+  color: brown;
+  border-color: black;
+  border-style: groove;
+  border-width: thick;
+}
+p {
+  color: brown;
+}
